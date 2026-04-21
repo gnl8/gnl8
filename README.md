@@ -15,7 +15,7 @@ using System;
 
 class Program
 {
-    static void JustAbout()
+    static void aboutme()
     {
         Console.WriteLine("Female");
         Console.WriteLine("Software Engineer");
@@ -24,7 +24,7 @@ class Program
 
     static void Main(string[] args)
     {
-        JustAbout();
+        aboutme();
     }
 }
 
